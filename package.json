@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NicolasFromBelgium/Gherkin-Cucumber-Flow.git"
+    "url": "git+https://github.com/NicolasFromBelgium/BDD-Playwright-Gherkin-Cucumber-Flow.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/NicolasFromBelgium/Gherkin-Cucumber-Flow/issues"
+    "url": "https://github.com/NicolasFromBelgium/BDD-Playwright-Gherkin-Cucumber-Flow/issues"
   },
-  "homepage": "https://github.com/NicolasFromBelgium/Gherkin-Cucumber-Flow#readme",
+  "homepage": "https://github.com/NicolasFromBelgium/BDD-Playwright-Gherkin-Cucumber-Flow#readme",
   "devDependencies": {
     "@cucumber/cucumber": "^12.8.1",
     "playwright": "^1.59.1"
